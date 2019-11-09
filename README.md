@@ -1,7 +1,7 @@
 # Parkinsons-PredictiveModel-Using-Spiral-Drawings
 Image Classification project  to predict Parkinson's Disease on images of spiral drawings
 
-Current accuracy score: 97% - 10/31/2019
+Current accuracy score:  97%- 11/8/2019     95% - 10/31/2019
 
 Uses Keras for image processing and CNN for feature extractions
 
